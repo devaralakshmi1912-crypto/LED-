@@ -24,6 +24,6 @@ Skills Learned
 - Embedded systems programming
 
 
-  ##Wokwi Simulation
+  ## Wokwi Simulation
   [Click here to view my LED Blinking Project]
   https://wokwi.com/dashboard/projects
