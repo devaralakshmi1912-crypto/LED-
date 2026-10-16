@@ -27,3 +27,12 @@ Skills Learned
   ## Wokwi Simulation
   [Click here to view my LED Blinking Project]
   https://wokwi.com/dashboard/projects
+## Project Screenshots
+
+### LED Blinking Simulation
+
+![LED Blinking Running](Screenshot%202026-10-16%20162947.png)
+
+### Circuit View
+
+![LED Blinking Circuit](Screenshot%202026-10-16%20163356.png)
